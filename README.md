@@ -71,7 +71,7 @@
 <br>
 
 
-![Snake animation](https://github.com/piyushvermaa/piyushvermaa/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/iamvtyagi/iamvtyagi/blob/output/github-contribution-grid-snake-dark.svg)
 
 <br>
 
