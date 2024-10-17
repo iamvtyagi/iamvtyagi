@@ -70,11 +70,8 @@
 
 <br>
 
-<h2 align="center">🐍 Contributions Snake</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/iamvtyagi/iamvtyagi/output/snake.svg" alt="Snake animation" />
-</p>
+![Snake animation](https://github.com/piyushvermaa/piyushvermaa/blob/output/github-contribution-grid-snake-dark.svg)
 
 <br>
 
