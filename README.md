@@ -74,7 +74,11 @@
 <br>
 
 
-![Snake animation](https://github.com/iamvtyagi/iamvtyagi/blob/output/github-contribution-grid-snake-dark.svg)
+<h2 align="center">🐍 Contributions Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iamvtyagi/iamvtyagi/output/snake.svg" alt="Snake animation" />
+</p>
 
 <br>
 
