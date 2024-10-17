@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Aspiring+Full-Stack+Developer;DSA+%7C+MERN+%7C+Explorer;Building+Secure+%26+Scalable+Apps" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
 <h2 align="center">🌟 About Me</h2>
 
@@ -12,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://gifsec.com/wp-content/uploads/2022/10/cute-anime-boy-7.gif" height="200" alt="Coding mood" />
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 </p>
 
 <br>
