@@ -30,7 +30,6 @@
   🎬 Bringing websites to life using GSAP – smooth, fluid animations that make everything pop!
 ✨ Dynamic, interactive, and engaging front-end magic with just a few lines of code.<br>
 </p>
-
 <br>
 
 ## 🌐 Socials:
@@ -42,6 +41,10 @@
 <a href="https://www.codechef.com/users/vansh_tyagi1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vansh_tyagi1" height="30" width="40" /></a>
 <a href="mailto:vanshjii021@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="vanshjii021@gmail.com" height="30" width="40" /></a>
   
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Aspiring+Full-Stack+Developer;DSA+%7C+MERN+%7C+Explorer;Building+Secure+%26+Scalable+Apps" alt="Typing SVG" />
 </p>
 
 <h2 align="center">🛠️ My Tech Arsenal</h2>
