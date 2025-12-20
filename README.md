@@ -90,13 +90,12 @@
 
 <br>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<!-- <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamvtyagi&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
+ <img src="https://github-profile-trophy.vercel.app/?username=iamvtyagi&theme=onedark" />
+</p> -->
 
-<br>
 
 <!---
 <h2 align="center">🐍 Contributions Snake</h2>
